@@ -1,0 +1,1 @@
+Entry(root, font = f_text)
